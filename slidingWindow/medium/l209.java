@@ -19,7 +19,7 @@ Input: target = 11, nums = [1,1,1,1,1,1,1,1]
 Output: 0*/
 
 
-class Solution {
+class l209 {
     public int minSubArrayLen(int target, int[] nums) {
         
         int len = Integer.MAX_VALUE;
